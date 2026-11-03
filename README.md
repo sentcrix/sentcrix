@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center"> 
+$$\color{#7B6894}{\text{she wants my hundred dollar bills}}$$
 
-<!--
-**sentcrix/sentcrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<p align="center">
+<img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/40ce1692-bde3-4996-bc95-2bbf64e15f03" />
+</p>
+
+
+<p align="center">
+$$\color{#7B6894}{\text{she don't want love}}$$
+
