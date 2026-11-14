@@ -12,5 +12,5 @@ $$\color{#111436}{\text{she wants my hundred dollar bills}}$$
 $$\color{#540D0D}{\text{she don't want love}}$$
 
 <p align="center">
-<img width="900" height="100" alt="IMG_3757" src="https://github.com/user-attachments/assets/8c785911-a98e-4429-9bec-31827cca8cfa" />
+<img width="100" height="100" alt="IMG_3757" src="https://github.com/user-attachments/assets/8c785911-a98e-4429-9bec-31827cca8cfa" />
 </p>
