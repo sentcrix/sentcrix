@@ -2,13 +2,15 @@
 $$\color{#111436}{\text{she wants my hundred dollar bills}}$$
 
 
-
   
 <p align="center">
-<img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/40ce1692-bde3-4996-bc95-2bbf64e15f03" />
+<img width="540" height="304" alt="5A8860AA-08B7-411A-B4C8-4C24096E3964" src="https://github.com/user-attachments/assets/e4ce29e4-066c-4b3e-8bd6-bbd0fb355299" />
 </p>
 
 
 <p align="center">
 $$\color{#540D0D}{\text{she don't want love}}$$
 
+<p align="center">
+<img width="1198" height="286" alt="IMG_3757" src="https://github.com/user-attachments/assets/8c785911-a98e-4429-9bec-31827cca8cfa" />
+</p>
