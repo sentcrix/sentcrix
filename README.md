@@ -9,7 +9,7 @@ $$\color{#FCD735}{\text{she wants my hundred dollar bills}}$$
 
 
 <p align="center">
-$$\color{#540D0D}{\text{she don't want love}}$$
+$$\color{#8EBD37}{\text{she don't want love}}$$
 
 <p align="center">
 <img width="400" height="120" alt="IMG_3757_3" src="https://github.com/user-attachments/assets/d838f34b-f7e3-4a57-a85d-4f922dc43e44" />
