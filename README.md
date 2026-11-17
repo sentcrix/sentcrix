@@ -12,5 +12,5 @@ $$\color{#E8F3FF}{\text{the doggone}}$$
 $$\color{#1C63BA}{\text{girl is mine!}}$$
 
 <p align="center">
-<img width="120" height="400" alt="IMG_3833" src="https://github.com/user-attachments/assets/d77a45f8-9240-4d03-a9c9-c033d97b2565" />
+<img width="959" height="373" alt="IMG_3833" src="https://github.com/user-attachments/assets/d77a45f8-9240-4d03-a9c9-c033d97b2565" />
 </p>
