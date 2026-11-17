@@ -1,5 +1,5 @@
 <p align="center"> 
-$$\color{#E8F3FF}{the doggone}}$$
+$$\color{#E8F3FF}{\text{the doggone}}$$
 
 
   
