@@ -4,7 +4,7 @@ $$\color{#E8F3FF}{\text{the doggone}}$$
 
   
 <p align="center">
-<img width="500" height="290" alt="Untitled167_20261117220827-removebg-preview" src="https://github.com/user-attachments/assets/195a2066-e8ef-44ea-82bc-ca4343793fce" />
+<img width="430" height="290" alt="Untitled167_20261117220827-removebg-preview" src="https://github.com/user-attachments/assets/195a2066-e8ef-44ea-82bc-ca4343793fce" />
 
 <p align="center">
 $$\color{#FFA8CC}{\text{girl is mine!}}$$
