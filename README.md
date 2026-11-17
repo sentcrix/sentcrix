@@ -4,7 +4,7 @@ $$\color{#E8F3FF}{\text{the doggone}}$$
 
   
 <p align="center">
-<img width="540" height="304" alt="IMG_3844" src="https://github.com/user-attachments/assets/9571c9d6-f4dd-4dbf-a752-b163eebc0260" />
+<img width="540" height="304" alt="IMG_3845" src="https://github.com/user-attachments/assets/f22a0879-f7f7-4cf5-ac72-7fcd05d155a5" />
 </p>
 
 
