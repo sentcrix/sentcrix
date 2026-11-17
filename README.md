@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img width="1000" height="226" alt="EE4F596E-9283-4FD2-862B-87EB64393A5E" src="https://github.com/user-attachments/assets/4f826c04-df04-460e-81a3-0adc332caa86" />
+  <img width="1000" height="100" alt="EE4F596E-9283-4FD2-862B-87EB64393A5E" src="https://github.com/user-attachments/assets/4f826c04-df04-460e-81a3-0adc332caa86" />
 
 <p align="center"> 
 $$\color{#E8F3FF}{\text{the doggone}}$$
