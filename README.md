@@ -9,8 +9,7 @@ $\small\color{#7A0606}{\textsf{𝔱𝔥𝔢 𝔡𝔬𝔤𝔤𝔬𝔫𝔢}}$
 
 <p align="center">
 $\tiny\color{#7A0606}{\textsf{𝔤𝔦𝔯𝔩 𝔦𝔰 𝔪𝔦𝔫𝔢!}}$
-
-.<p align="center">
+<p align="center">
   [ata](https://sending.atabook.org/)
 
 
