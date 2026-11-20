@@ -1,5 +1,5 @@
 <p align="center">
-<img width="824" height="303" alt="Untitled168_20261120191221-removebg-preview" src="https://github.com/user-attachments/assets/881f9762-977f-4496-82a0-3ce108b83f74" />
+<img width="700" height="292" alt="Untitled168_20261120193431-removebg-preview" src="https://github.com/user-attachments/assets/4f3914bc-b778-4178-9b28-7d995d291d1b" />
 
 
 
