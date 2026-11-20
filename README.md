@@ -13,3 +13,5 @@ $\tiny\color{#7A0606}{\textsf{girl is mine!}}$
 
 [ata](https://sending.atabook.org/)
 
+<p align="center">
+<img width="400" height="21" alt="image" src="https://github.com/user-attachments/assets/a62f2e5a-4e5e-44f9-aead-e0fb667a89d9" />
