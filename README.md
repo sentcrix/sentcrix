@@ -12,4 +12,3 @@ $\color{#7A0606}{\text{girl is mine!}}$$
 <img src="https://64.media.tumblr.com/c6f68f457758567542d0cbf0c35f5501/777affc0d54e700b-22/s250x400/8edba1ef3a999bf6ecf07813a9a77972dcd9248c.webp"/>
 
 
-<img width="140" src="https://komarev.com/ghpvc/?username=sentcrix&color=32cd32" alt="views count">
