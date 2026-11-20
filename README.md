@@ -1,7 +1,7 @@
 
 
 <p align="center"> 
-$$\color{#7A0606}$\tiny{\textsf{the doggone}}$
+$\tiny{\textsf{the doggone}}$
   
 
 
