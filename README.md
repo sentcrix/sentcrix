@@ -4,7 +4,7 @@
 $\small\color{#7A0606}{\textsf{the doggone}}$ 
 
 <p align="center">
-<img width="200" img height="90" src=https://files.catbox.moe/uqqb0k.webp>
+<img width="20" img height="13" src=https://files.catbox.moe/uqqb0k.webp>
 
 <p align="center">
 $\tiny\color{#7A0606}{\textsf{girl is mine!}}$
