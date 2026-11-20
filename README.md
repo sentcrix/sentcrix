@@ -1,5 +1,7 @@
 <p align="center">
-<img width="500" height="19" alt="image" src="https://github.com/user-attachments/assets/a62f2e5a-4e5e-44f9-aead-e0fb667a89d9" />
+<img width="2048" height="2048" alt="Untitled168_20261120191204" src="https://github.com/user-attachments/assets/9761f999-8953-4413-9647-6f14e0e861dd" />
+
+
 
 <p align="center"> 
 $\small\color{#7A0606}{\textsf{𝔱𝔥𝔢 𝔡𝔬𝔤𝔤𝔬𝔫𝔢}}$ 
