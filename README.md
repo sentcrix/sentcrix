@@ -7,6 +7,6 @@ $\tiny\color{#7A0606}{\textsf{the doggone}}$
 $\tiny\color{#7A0606}{\textsf{girl is mine!}}$
 
 <p align="center">
-[Ata]([[https://sending.atabook.org]
+[Link](https://sending.atabook.org/)
 
 
