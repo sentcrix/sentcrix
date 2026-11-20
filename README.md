@@ -3,7 +3,7 @@
 <p align="center"> 
 $$\color{#FFA8CC}{\text{the doggone}}$$
   
-<img width="140" src="https://komarev.com/ghpvc/?username=your-sentcrix">
+<img width="140" src="https://komarev.com/ghpvc/?username=sentcrix">
 
 <p align="center">
 $$\color{#FFA8CC}{\text{girl is mine!}}$$
