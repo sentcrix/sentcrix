@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <picture>
+</p>p>
     <img src="(https://github.com/user-attachments/assets/79194726-0937-489a-b052-e2f213a51ce2)" width="500" height="200" alt="Lace divider" />
-  </picture>
 </p>
 
    
