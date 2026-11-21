@@ -1,4 +1,4 @@
-࿔◞ <p align="center">
+࿔ <p align="center">
   [❆ata](https://sending.atabook.org/)  
 
   <p align="center">
