@@ -2,8 +2,7 @@
   [❆ata](https://sending.atabook.org/)  
 
 <p align="center">
-  <img src="[https://github.com](https://github.com/user-attachments/assets/79194726-0937-489a-b052-e2f213a51ce2)" alt="Lace divider" />
-</p>
+  <img src="[https://github.com](https://github.com/user-attachments/assets/79194726-0937-489a-b052-e2f213a51ce2)"
 
 
    
