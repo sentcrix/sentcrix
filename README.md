@@ -13,7 +13,7 @@ $\small\color{#7A0606}{\textsf{𝔤𝔦𝔯𝔩 𝔦𝔰 𝔪𝔦𝔫𝔢!}}$
 
 <p align="center">
 <p align="center">
-$\color{#7A0606}{\textsf{𝔤𝔦𝔯𝔩 𝔦𝔰 𝔪𝔦𝔫𝔢!}}$
+$\color{#7A0606}{\textsf{༄࿔◞ ❆────༄࿔◞────❆ ༄࿔◞}}$
   
 <p align="center">
   <a href="https://sending.atabook.org/">❄ata</a>
