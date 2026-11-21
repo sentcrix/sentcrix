@@ -6,6 +6,10 @@
   <img src="https://github.com/user-attachments/assets/79194726-0937-489a-b052-e2f213a51ce2" alt="Lace divider" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79194726-0937-489a-b052-e2f213a51ce2" width="100%" alt="Lace divider" />
+</p>
+
    
  <p align="center"> 
 $\small\color{#7A0606}{\textsf{𝔱𝔥𝔢 𝔡𝔬𝔤𝔤𝔬𝔫𝔢}}$ 
