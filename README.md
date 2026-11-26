@@ -18,12 +18,11 @@ $\small\color{#7A0606}{\textsf{𝔤𝔦𝔯𝔩 𝔦𝔰 𝔪𝔦𝔫𝔢!}}$
 $\color{#༄࿔◞ ❆────༄࿔◞────❆ ༄࿔◞}{\textsf{༄࿔◞ ❆────༄࿔◞────❆ ༄࿔◞}}$
   
 <p align="center">
-  <a href="https://sending.atabook.org/">❄ata</a>
-</p>
-
-<p align="center">
 <img width="90" alt="image" src="https://github.com/user-attachments/assets/d5a46532-2fd4-4613-9210-4d8d00f83e09" />
 
+<p align="center">
+  <a href="https://sending.atabook.org/">ata</a>
+</p>
   
 
 
